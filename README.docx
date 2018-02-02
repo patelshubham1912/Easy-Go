@@ -1,0 +1,8 @@
+# Easy-Go
+
+Easy Go is a Travel Application which is a companion to your trip right from the start to
+the end. 
+Project Included open Source British Airways API, 3 Google APIs and a World Weather API. 
+This Project not only shows the correct details of all the flights with the information as detailed as departure terminal and arrival
+terminal but also the restaurants, Hotes, travel Agents and weather at that Particular Destination.
+This project covered 367 Destinations around the globe.
